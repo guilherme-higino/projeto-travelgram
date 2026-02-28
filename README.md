@@ -6,6 +6,12 @@ O projeto simula o layout de uma rede social de viagens chamada Travelgram, apre
 
 ---
 
+## 🖼️ Preview
+
+![Preview do projeto](assets/preview.png)
+
+---
+
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5: Estruturação semântica da página.
